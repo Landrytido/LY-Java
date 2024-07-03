@@ -1,0 +1,28 @@
+/* styles.css */
+
+.root {
+    -fx-font-family: 'Arial';
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.label {
+    color: #1f8e03;
+    -fx-text-fill: #333;
+}
+
+.text-field {
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-border-color: #ddd;
+    -fx-background-color: #fff;
+}
+
+
